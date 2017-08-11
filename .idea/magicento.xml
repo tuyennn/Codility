@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MagicentoSettings">
+    <option name="pathToMage" value="$PROJECT_DIR$/app/Mage.php" />
+    <option name="enabled" value="false" />
+    <option name="projectClosedCorrectly" value="false" />
+    <option name="customSignatures" value="Mage_Sales_Model_Order.getPaymentsCollection = Mage_Sales_Model_Resource_Order_Payment_Collection;;MODEL=sales/order.getPaymentsCollection==RESOURCEMODEL=sales/order_payment_collection" />
+    <option name="d" value="FgXDY0+UFgZE5XopZXmfEIoDF4lbK1uJwNcAwIuZ8AW1uwkEhqqtUlILowA39vMmGLk8NtQOIb9G&#13;&#10;MLDE/96U2LYkDAOdMAdGMp+YVpAh7e1E5dl1FVJ47Z9lqNZY2tb4qHUEcMAv1CGGYRKnqchITOeP&#13;&#10;Zof6H4Q41e9H8zFsHjM=&#13;&#10;" />
+  </component>
+</project>
